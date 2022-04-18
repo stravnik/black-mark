@@ -20,6 +20,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/artshishkin
 * https://github.com/AssemblyScript
 * https://github.com/azjezz
+* https://github.com/burgua
 * https://github.com/ch33r10
 * https://github.com/ChngYrNick
 * https://github.com/Codeception
@@ -58,6 +59,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/ievgen11
 * https://github.com/ihucos
 * https://github.com/Intervention
+* https://github.com/jech
 * https://github.com/jgraph
 * https://github.com/k01ek
 * https://github.com/K1ngSoul
@@ -75,6 +77,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/louislam
 * https://github.com/Luzhnuy
 * https://github.com/MacPaw
+* https://github.com/MahApps
 * https://github.com/medikoo
 * https://github.com/metastck
 * https://github.com/mewtongames
