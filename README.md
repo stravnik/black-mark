@@ -15,6 +15,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/Anti-Prop
 * https://github.com/antonbabenko
 * https://github.com/ApocalypseCalculator
+* https://github.com/archimatetool
 * https://github.com/arendst
 * https://github.com/Arriven
 * https://github.com/artshishkin
@@ -49,6 +50,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/filipe-freire
 * https://github.com/fomvasss
 * https://github.com/gianpaj
+* https://github.com/giuspen
 * https://github.com/GloryToUA
 * https://github.com/GM-DONATE
 * https://github.com/goddessmokosh
