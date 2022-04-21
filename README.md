@@ -71,6 +71,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/koreader
 * https://github.com/kubernetes-sigs
 * https://github.com/laminas
+* https://github.com/laravel
 * https://github.com/limesquid
 * https://github.com/lippserd
 * https://github.com/litded
