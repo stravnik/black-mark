@@ -117,6 +117,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/RIAEvangelist
 * https://github.com/Riceblade
 * https://github.com/Roave
+* https://github.com/robotframework
 * https://github.com/Russia-Sanctions
 * https://github.com/RusskijKorablIdiNaxuj
 * https://github.com/samber
@@ -124,6 +125,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/Sateviss
 * https://github.com/sebastianbergmann
 * https://github.com/security-code-scan
+* https://github.com/selenide
 * https://github.com/SergeyOcheretenko
 * https://github.com/seriascraper
 * https://github.com/SilentButeo2
@@ -167,6 +169,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/Yaffle
 * https://github.com/yarnpkg
 * https://github.com/yellowsummer1972
+* https://github.com/YetiForceCompany
 * https://github.com/yii-starter-kit
 * https://github.com/ypylypenko
 * https://github.com/yyyar
