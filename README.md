@@ -8,6 +8,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/akhavr
 * https://github.com/alexander-danilenko
 * https://github.com/alexmon1989
+* https://github.com/alexnest-ua
 * https://github.com/alexshapalov
 * https://github.com/AlexTrushkovsky
 * https://github.com/almerico
