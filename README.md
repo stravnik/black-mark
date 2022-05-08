@@ -37,6 +37,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/daocentral
 * https://github.com/dbarnett
 * https://github.com/dbcli
+* https://github.com/DeaDBeeF-Player
 * https://github.com/deschler
 * https://github.com/dimboknv
 * https://github.com/dmtrKovalenko
@@ -126,6 +127,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/samber
 * https://github.com/sanfarans
 * https://github.com/Sateviss
+* https://github.com/scalacenter
 * https://github.com/sebastianbergmann
 * https://github.com/security-code-scan
 * https://github.com/selenide
@@ -141,6 +143,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/spatie
 * https://github.com/spider-mane
 * https://github.com/stalniy
+* https://github.com/starship
 * https://github.com/stop-war-in-ukraine
 * https://github.com/stopwarstopputin
 * https://github.com/styled-components
@@ -177,4 +180,5 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/ypylypenko
 * https://github.com/yyyar
 * https://github.com/zadam
+* https://gitlab.com/zerofix1
 * https://github.com/zozulinskyi
