@@ -50,9 +50,11 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/evermade
 * https://github.com/evolution-cms
 * https://github.com/facebook
+* https://github.com/files-community
 * https://github.com/filipe-freire
 * https://github.com/fmtlib
 * https://github.com/fomvasss
+* https://github.com/Friz-zy
 * https://github.com/gianpaj
 * https://github.com/giuspen
 * https://github.com/GloryToUA
@@ -109,6 +111,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/panaceya
 * https://github.com/pauldb09
 * https://github.com/petrussola
+* https://github.com/photopea
 * https://github.com/phpbench
 * https://github.com/PHPMailer
 * https://github.com/piotrmaslanka
