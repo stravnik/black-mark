@@ -20,6 +20,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/arendst
 * https://github.com/Arriven
 * https://github.com/artshishkin
+* https://github.com/arx
 * https://github.com/AssemblyScript
 * https://github.com/azjezz
 * https://github.com/burgua
@@ -54,6 +55,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/filipe-freire
 * https://github.com/fmtlib
 * https://github.com/fomvasss
+* https://github.com/fork-maintainers
 * https://github.com/Friz-zy
 * https://github.com/gianpaj
 * https://github.com/giuspen
@@ -102,6 +104,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/NewEXE
 * https://github.com/nicejade
 * https://github.com/nixsolutions
+* https://github.com/nunomaduro
 * https://github.com/o2sh
 * https://github.com/OB42
 * https://github.com/online-go
