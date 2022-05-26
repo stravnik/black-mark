@@ -44,6 +44,8 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/dmtrKovalenko
 * https://github.com/dotnet-foundation
 * https://github.com/dry-rb
+* https://github.com/dscharrer
+* https://github.com/dvorka
 * https://github.com/dxh-team
 * https://github.com/emergenzeHack
 * https://github.com/emotion-js
@@ -53,6 +55,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/facebook
 * https://github.com/files-community
 * https://github.com/filipe-freire
+* https://github.com/fluffy-mods
 * https://github.com/fmtlib
 * https://github.com/fomvasss
 * https://github.com/fork-maintainers
@@ -63,6 +66,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/GM-DONATE
 * https://github.com/goddessmokosh
 * https://github.com/hattifn4ttar
+* https://github.com/hautelook
 * https://github.com/hejny
 * https://github.com/helpmap
 * https://github.com/hperrin
