@@ -23,6 +23,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/arx
 * https://github.com/AssemblyScript
 * https://github.com/azjezz
+* https://github.com/bareos
 * https://github.com/burgua
 * https://github.com/ch33r10
 * https://github.com/ChngYrNick
