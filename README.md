@@ -68,6 +68,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/GloryToUA
 * https://github.com/GM-DONATE
 * https://github.com/goddessmokosh
+* https://github.com/gperftools
 * https://github.com/hattifn4ttar
 * https://github.com/hautelook
 * https://github.com/hejny
